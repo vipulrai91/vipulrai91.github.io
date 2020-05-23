@@ -2,7 +2,7 @@
 layout: page
 title: Hello, I'm Vipul
 subtitle: A seasoned Data Scientist and Engineer | Developer | Cool Person to hangout with
-cover-img: assets/img/path.jpg
+cover-img: assets/img/mockup-863469_1920.jpg
 ---
 
 _My name is Vipul Rai , I currently reside in Bengaluru(India)<br><br>
