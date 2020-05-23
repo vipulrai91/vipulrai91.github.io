@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: more about me !
+subtitle: Let's talk Business...
 cover-img: assets/img/path.jpg
 ---
 
