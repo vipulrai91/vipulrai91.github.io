@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you would want to hang out with me !
+title: Hello, I'm Vipul
+subtitle: A seasoned Data Scientist and Engineer | Developer | Cool Person to hangout with
 cover-img: assets/img/path.jpg
 ---
 
