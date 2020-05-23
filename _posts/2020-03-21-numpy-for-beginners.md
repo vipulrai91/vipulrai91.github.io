@@ -1,8 +1,8 @@
 # Numpy for Beginners
 
-## This tutorial is practice from the course <http://cs231n.github.io/>
+### This tutorial is practice from the course <http://cs231n.github.io/>
 
-## To find the version of Python
+### To find the version of Python
 
 ```python
 import sys
