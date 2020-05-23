@@ -7,16 +7,16 @@ title: Vipul Rai
 description: A virtual proof that I'm awesome
 
 # Your name to show in the footer
-author: Some Person
+author: Vipul Rai
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Resume : "https://vipulrai91.github.io/resume/"
+    - Old Blog: "https://vipulraime.blogspot.com/"
+  Home: "https://vipulrai91.github.io/"
 
 # --- Logo --- #
 
