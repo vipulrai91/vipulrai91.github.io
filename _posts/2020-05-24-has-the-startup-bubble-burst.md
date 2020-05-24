@@ -1,8 +1,16 @@
+---
+layout: post
+cover-img: assets/img/path.jpg
+tags:
+  - startup
+comments: true
+---
+
 # 2020 touted as the most difficult years for startup? Has the bubble burst?<br>
 
-## Here are my views
+Here are my views
 
-### Note : **This is solely my understanding of how things are going wrong and does not intend to undermine the actions taken by the companies**
+## Note : **This is solely my understanding of how things are going wrong and does not intend to undermine the actions taken by the companies**
 
 _This year started on very bad note with the whole world going through pandemic and no one knows till when this will continue<br>
 People have been struggling to make their ends meet , risking their lives so that they can have bread on the table for themselves and their loved ones_
