@@ -65,7 +65,7 @@ Who would want additional person working when we can torture the hell out of exi
 
 ![weekend](/assets/img/ross-weekend.gif)
 
-### There are many more reasons which soon all of us would see in days to come , would keep updating.
+### There are many more reasons which all of us would soon see,will keep updating.
 
 There are exceptions though and I would name them : Airbnb has shown class [read here](https://news.airbnb.com/a-message-from-co-founder-and-ceo-brian-chesky/) in how they handled this. This was expected from others as well but sadly..<br>
 
