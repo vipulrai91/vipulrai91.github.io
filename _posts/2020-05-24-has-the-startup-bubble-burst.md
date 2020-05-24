@@ -73,4 +73,4 @@ There are exceptions though and I would name them : Airbnb has shown class [read
 
 ![](/assets/img/apj.jpg)
 
-### That look's like exactly what is happening!
+### Something to ponder upon!
