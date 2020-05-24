@@ -13,7 +13,7 @@ Lot of companies have their business at standstill with 90% losses to almost no 
 
 With litertally no business, no revenues and the cost of real estate , mortagages mounting , I feel for them.
 
-Even if everything returns to business as usual it is a long road ahead filled with uncertanities , only time will tell how many of them would survive or bite the dust.
+Even if everything returns to business as usual, it is a long road ahead filled with uncertanities , only time will tell how many of them would survive or bite the dust.
 
 There are exceptions though(without naming the company) - firing employees , winding their premier labs - still spending $7 billion to aquire a competitor.<br>
 Does this ring a bell?
