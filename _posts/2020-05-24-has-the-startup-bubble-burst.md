@@ -55,7 +55,7 @@ The cost? Beloved employees are the scapegoat.
 
 ## Covid-19 as an excuse to get marketing and sales people out
 
-Now that most of the companies have become household names , companies having no more coupons to offer , stratergy changing from expansion to retaining the customers. The need for marketing and sales obviously becomes less.<br>
+Now that most of the companies have become household names , companies having no more coupons to offer , strategy changing from expansion to retaining the customers. The need for marketing and sales obviously becomes less.<br>
 This is a great oppprtunity to get rid of these people Because why not?
 
 ## The bench had grown
