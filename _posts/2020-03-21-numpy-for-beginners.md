@@ -1,7 +1,12 @@
+---
+layout: post
+tags: [python ,numpy] 
+comments: true
+---
 
-### This tutorial is practice assignment from the course <http://cs231n.github.io/>
+# This tutorial is practice assignment from the course <http://cs231n.github.io/>
 
-### To find the version of Python
+# To find the version of Python
 
 ```python
 import sys
