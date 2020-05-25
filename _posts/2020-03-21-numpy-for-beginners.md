@@ -1,6 +1,8 @@
 ---
 layout: post
-tags: [python ,numpy] 
+tags:
+  - python
+  - numpy
 comments: true
 ---
 
