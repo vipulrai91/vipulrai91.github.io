@@ -13,9 +13,9 @@ author: Vipul Rai
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Resume : "https://vipulrai91.github.io/resume/"
-    - Old Blog: "https://vipulraime.blogspot.com/"
+  Resume : "https://vipulrai91.github.io/resume/"
+  Old Blog: "https://vipulraime.blogspot.com/"
+  Topics : "https://vipulrai91.github.io/tags/"
   Home: "https://vipulrai91.github.io/"
 
 # --- Logo --- #
