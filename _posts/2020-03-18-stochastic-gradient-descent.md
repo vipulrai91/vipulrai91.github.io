@@ -1,3 +1,13 @@
+---
+layout: post
+tags:
+  - python
+  - numpy
+  - machine learning
+  - classification
+comments: true
+---
+
 # Stochastic Gradient Descent uisng fast.ai framework
 
 [From Wikipedia](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)<br>
