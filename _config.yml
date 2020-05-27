@@ -17,6 +17,7 @@ navbar-links:
   Old Blog: "https://vipulraime.blogspot.com/"
   Projects:
     - ML Algos: "https://github.com/vipulrai91/ml-projects"
+    - Mask Detection : "https://github.com/vipulrai91/mask-detection"
   Topics: "https://vipulrai91.github.io/tags/"
   Home: "https://vipulrai91.github.io/"
 
@@ -164,7 +165,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Asia/Calcutta"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
