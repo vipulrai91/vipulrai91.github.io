@@ -9,11 +9,9 @@ tags:
 comments: true
 ---
 
-# Face Detection using OpenCV and Deep Learning for Images
+# This is part one of this series where we will finally build a face mask detector at the end of the series.
 
-## This is part one of this series where we will finally build a face mask detector at the end of the series
-
-### For this tutorial we are going to use OpenCV and prebuilt model shipped with it
+## For this tutorial we are going to use OpenCV and prebuilt model shipped with it.
 
 Face Detection is subset of object detection. It is not similar to object classification.
 
