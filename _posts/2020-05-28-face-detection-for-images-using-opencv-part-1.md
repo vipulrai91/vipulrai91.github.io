@@ -9,11 +9,13 @@ tags:
 comments: true
 ---
 
-# This is part one of this series where we will finally build a face mask detector at the end of the series.
+# This is part one of this series.
 
-## For this tutorial we are going to use OpenCV and prebuilt model shipped with it.
+## By the end of the series we will build a face mask detector.
 
-Face Detection is subset of object detection. It is not similar to object classification.
+### For this tutorial we are going to use OpenCV and prebuilt model shipped with it.
+
+Face Detection is subset of object detection. It is not similar to object clssification.
 
 The major difference as mentioned here at [stackoverflow.com](https://stackoverflow.com/questions/31750076/what-is-the-difference-between-object-detection-and-object-classification) answer.
 
@@ -64,6 +66,8 @@ Finally the output would be the same image with faces marked in boundaries.
 This was out of box implementation using pre-trained model provided by OpenCV
 
 In the future posts we would be training model from scratch.
+
+Next up : Using the same model to detect live faces using camera feed.
 
 References :<br>
 [stackoverflow.com](https://stackoverflow.com/questions/31750076/what-is-the-difference-between-object-detection-and-object-classification)<br>
