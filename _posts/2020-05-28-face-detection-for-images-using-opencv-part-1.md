@@ -17,7 +17,7 @@ comments: true
 
 Face Detection is subset of object detection. It is not similar to object clssification.
 
-The major difference as mentioned here at [stackoverflow.com](https://stackoverflow.com/questions/31750076/what-is-the-difference-between-object-detection-and-object-classification) answer.
+The major difference are as mentioned here at [stackoverflow.com](https://stackoverflow.com/questions/31750076/what-is-the-difference-between-object-detection-and-object-classification) answer.
 
 **Object classification** - Given an image, classify this image to some class like Apple, bus, forest etc.<br>
 **Object detection** - Given an image, find out if there exist a patch(or coordinates) where the class exists? eg - Given an image predict whether classes(like oranges, truck, lion) exist in image or not.
@@ -28,7 +28,7 @@ To start with head to [Github](https://github.com/vipulrai91/mask-detection/tree
 
 Make sure you run this command from home dir
 
-```console
+```bash
 pip install -r requirements.txt
 ```
 
