@@ -1,6 +1,6 @@
 ---
 layout: post
-cover-img: assets/img/path.jpg
+cover-img: assets/img/blog_images/face-detection-4791810_1920.jpg
 tags:
   - deep learning
   - object detection
@@ -11,16 +11,21 @@ comments: true
 
 # This is part one of this series.
 
+<br>
+
 ## By the end of the series we will build a face mask detector.
 
-### For this tutorial we are going to use OpenCV and prebuilt model shipped with it.
+<br>
 
-Face Detection is subset of object detection. It is not similar to object clssification.
+### For this tutorial we are going to use OpenCV and prebuilt model shipped with it
 
-The major difference are as mentioned here at [stackoverflow.com](https://stackoverflow.com/questions/31750076/what-is-the-difference-between-object-detection-and-object-classification) answer.
+Face Detection is subset of object detection. It is different from object classification.
+
+The major difference being
 
 **Object classification** - Given an image, classify this image to some class like Apple, bus, forest etc.<br>
-**Object detection** - Given an image, find out if there exist a patch(or coordinates) where the class exists? eg - Given an image predict whether classes(like oranges, truck, lion) exist in image or not.
+**Object detection** - Given an image, find out if there exist a patch(or coordinates) where the class exists? eg - Given an image predict whether classes(like oranges, truck, lion) exist in image or not.<br>
+[source](https://stackoverflow.com/questions/31750076/what-is-the-difference-between-object-detection-and-object-classification)
 
 Since this is an object detection problem,here we need to find the co-ordinates where the face exists in the given image.
 
@@ -71,4 +76,5 @@ Next up : Using the same model to detect live faces using camera feed.
 
 References :<br>
 [stackoverflow.com](https://stackoverflow.com/questions/31750076/what-is-the-difference-between-object-detection-and-object-classification)<br>
-[pyimagesearch.com](https://www.pyimagesearch.com)
+[pyimagesearch.com](https://www.pyimagesearch.com)<br>
+Cover Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4791810) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4791810)
