@@ -1,6 +1,6 @@
 ---
 layout: post
-cover-img: assets/img/blog_images/face-detection-4791810_1920.jpg
+cover-img: assets/img/neural_net/nerve_cell.jpg
 tags:
   - deep learning
   - neural network
@@ -95,5 +95,6 @@ Finally we can check the accuracy.
 This simple model gave me an accuracy of 88%, which is good given that this was basic model and we did little optimizations.
 
 References:<br>
+Image by [Colin Behrens](https://pixabay.com/users/ColiN00B-346653/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2213009) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2213009)<br>
 [Wikipedia](https://en.wikipedia.org/wiki/Neural_network)<br>
 [Keras Deep Learning with Python, Second Edition by François Chollet](https://www.manning.com/books/deep-learning-with-python-second-edition)
