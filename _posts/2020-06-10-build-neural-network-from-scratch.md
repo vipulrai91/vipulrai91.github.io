@@ -40,7 +40,7 @@ There are many other components, but since this a basic nn we will be using only
 Also, this will be a linear function with 2 layers, so we will be training our model to fit in the equation for line i.e.<br>
 y = wx + b<br>
 where,<br>
-w = weights or gradient<br>
+w = weights<br>
 b = bias<br>
 y = target/ to predict/ dependent variable/ output<br>
 x = predictor/ features /independent variable / input to the model
