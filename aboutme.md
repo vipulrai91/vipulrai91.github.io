@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello, I'm Vipul
-subtitle: A seasoned Data Scientist and Engineer | Developer | Cool Person to hangout with
+subtitle: A seasoned Data Scientist and Engineer | Developer | Deep Learning Enthusiast
 cover-img: assets/img/mockup-863469_1920.jpg
 ---
 
