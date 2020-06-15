@@ -16,11 +16,7 @@ navbar-links:
   Resume: "https://vipulrai91.github.io/resume/"
   Resources: "https://vipulrai.me/learning-resources/"
   Old Blog: "https://vipulraime.blogspot.com/"
-  Projects:
-    - ML Algos: "https://github.com/vipulrai91/ml-projects"
-    - Mask Detection : "https://github.com/vipulrai91/mask-detection"
-    - Tensorflow Projects : "https://github.com/vipulrai91/tensorflow-projects"
-    - Web Classifer : "https://github.com/vipulrai91/web-classifier-cats-dogs"
+  Projects: "https://github.com/vipulrai91/my-projects/wiki/Projects-Home"
   Topics: "https://vipulrai91.github.io/tags/"
   Home: "https://vipulrai91.github.io/"
 
