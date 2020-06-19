@@ -17,6 +17,8 @@ navbar-links:
   Resources: "https://vipulrai.me/learning-resources/"
   Old Blog: "https://vipulraime.blogspot.com/"
   Projects: "https://github.com/vipulrai91/my-projects/wiki/Projects-Home"
+  Certifications:
+    - DataBricks Spark Developer: "https://vipulrai.me/my-projects/certifications/C0170_Rai.pdf"
   Topics: "https://vipulrai91.github.io/tags/"
   Home: "https://vipulrai91.github.io/"
 
